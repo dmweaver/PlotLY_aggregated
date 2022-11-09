@@ -19,5 +19,9 @@
     "open": "^8.2.1",
     "parcel": "^2.2.0",
     "prettier": "2.6.2"
+  },
+  "dependencies": {
+    "plotly": "^1.0.6",
+    "plotly.js": "^2.16.1"
   }
 }
